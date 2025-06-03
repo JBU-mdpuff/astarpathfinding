@@ -1,1 +1,1 @@
-# astarpathfinding
+# A* PathFinding
