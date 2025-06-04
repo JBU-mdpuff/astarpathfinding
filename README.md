@@ -5,4 +5,4 @@
 #### 테스트 프로그램 진입점인 Program.cs 로 구성되어 있습니다.
 #### 참고문서 'AstarIntro.pdf' 를 첨부합니다.
 
-[**알고리즘 설명(youtube)**](https://youtu.be/Axi_ux_Ou-E)
+[**알고리즘 설명(youtube)**](https://youtu.be/OCOl6LSrbUk)
